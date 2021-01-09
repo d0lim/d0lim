@@ -3,8 +3,8 @@
 
 
 ### 안녕하세요!
-이것저것 찍먹해보기 좋아하는 컴공 휴학생 **DoLim** 입니다!  
-지금은 군대에서 극한의 찍먹으로 공부를 하고 있습니다!
+이것저것 찍먹해보기 좋아하는 컴공 재학생(진) **DoLim** 입니다!  
+
 
 <!--
 **imdigo/imdigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
