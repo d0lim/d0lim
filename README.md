@@ -4,7 +4,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdigo)](https://hits.seeyoufarm.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 안녕하세요!
 이것저것 찍먹해보기 좋아하는 컴공 재학생(진) **D0Lim** 입니다!  
