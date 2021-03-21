@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=react&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 안녕하세요!
-이것저것 찍먹해보기 좋아하는 컴공 재학생(진) **D0Lim** 입니다!  
+이것저것 찍먹해보기 좋아하는 컴공 재학생 **D0Lim** 입니다!  
 
 <!--
 **imdigo/imdigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
