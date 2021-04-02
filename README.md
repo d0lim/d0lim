@@ -4,7 +4,7 @@
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdigo)](https://hits.seeyoufarm.com) -->
 
 
-[![D0Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=react&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![D0Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
