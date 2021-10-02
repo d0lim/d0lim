@@ -5,7 +5,7 @@
 
 
 [![D0Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lim&layout=compact&hide=c,html,makefile,jupyter%20notebook,assembly,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0lim&layout=compact&hide=c,html,makefile,jupyter%20notebook,assembly,shell,perl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 안녕하세요!
