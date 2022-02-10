@@ -8,7 +8,7 @@
 
 
 ### 안녕하세요!
-이것저것 찍먹해보기 좋아하는 컴공 재학생 **D0Lim** 입니다!  
+이것저것 찍먹해보기 좋아하는 개발자 **D0Lim** 입니다!  
 
 <!--
 **imdigo/imdigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
