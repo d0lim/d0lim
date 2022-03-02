@@ -2,9 +2,10 @@
 
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdigo)](https://hits.seeyoufarm.com) -->
-
-
-[![D0Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<div display="flex" flex-direction="row">
+  <img src="https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats" width="49.2%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=d0lim&theme=graywhite&date_format=%5BY.%5Dn.j" width="49.2%" />
+</div>
 
 
 ### 안녕하세요!
