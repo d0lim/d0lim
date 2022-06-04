@@ -2,9 +2,14 @@
 
 
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdigo)](https://hits.seeyoufarm.com) -->
-<div display="flex" flex-direction="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats" width="99.2%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=270&section=header&text=D0Lim&fontSize=90" width="99%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars" width="49%" />
+</p>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0lim&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</p>
+
 
 
 ### 안녕하세요!
