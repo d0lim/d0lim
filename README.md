@@ -6,7 +6,6 @@
   <a href="https://d0lim.com" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&height=270&section=header&text=D0Lim&fontSize=90" width="99%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=d0lim&theme=graywhite&show_icons=true&hide=stars" />
 </p>
 
 
